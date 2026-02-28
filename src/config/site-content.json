@@ -63,7 +63,7 @@
 	"enableCategories": true,
 	"currentHatIndex": 3,
 	"hatFlipped": false,
-	"enableChristmas": false,
+	"enableChristmas": true,
 	"beian": {
 		"text": "豫ICP备2025110598号",
 		"link": ""
